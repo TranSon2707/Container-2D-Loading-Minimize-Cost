@@ -1,0 +1,14 @@
+# IDEA:
+- to calculate the minimum area needed and add up the trucks to instantiate a semi-optimal solution and use it as a bound, using branch and bound to find an optimal solution
+
+
+# PROGRESS:
+- made class for Truck and Item
+
+
+# WHAT TO DO:
+- find out about the import library used for solving this problem (because the dudes who made this thing before us used pywraplp/ortools.linear_solver)
+
+
+# NOTE
+- skeptical about whether this would work...
